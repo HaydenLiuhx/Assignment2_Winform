@@ -1,0 +1,13 @@
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.csprojAssemblyReference.cache
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.Login.resources
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.Properties.Resources.resources
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.SignUp.resources
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.Text_Editor.resources
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.csproj.GenerateResource.cache
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.csproj.CoreCompileInputs.cache
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\bin\Debug\Assignment2_Winform.exe.config
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\bin\Debug\Assignment2_Winform.exe
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\bin\Debug\Assignment2_Winform.pdb
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.exe
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.pdb
+C:\Users\liuhuangxun\source\repos\Assignment2_Winform\Assignment2_Winform\obj\Debug\Assignment2_Winform.About.resources
